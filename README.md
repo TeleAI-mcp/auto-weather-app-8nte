@@ -1,2 +1,3 @@
-# auto-weather-app-8nte
+# Auto Weather App 8Nte
+
 A weather forecasting application for modern development workflows.
